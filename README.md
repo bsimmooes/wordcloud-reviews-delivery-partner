@@ -2,7 +2,7 @@
 
 The main objective in this colab notebook is to share my studies (testing, exploring) about _WordCloud in DataViz_.
 
-Dataset: delivery reviews.
+Dataset: delivery reviews (few preprocessing)
 
 ## WordCloud
 
